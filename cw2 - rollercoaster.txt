@@ -1,0 +1,20 @@
+public class Main
+{
+	public static void main(String[] args) {
+		
+		
+		
+		int hight = 120;
+		
+		
+		
+		if (hight < 160){
+		    System.out.println("bro you are too short, i'm sorry but you can't enter the rollercoaster :(");
+		} else{
+		    System.out.println("welcome, to the biggest rollercoaster ever. enjoy :)");
+		}
+		
+		
+		
+	}
+}
